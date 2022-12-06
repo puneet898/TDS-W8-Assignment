@@ -6,5 +6,5 @@ if (b == 0):
   st.write("Division not possible.")
 else:
   c=a/b
-st.write("Division of the Two numbers is: ",c)
+  st.write("Division of the Two numbers is: ",c)
 st.write("By Puneet 21f3002005")
